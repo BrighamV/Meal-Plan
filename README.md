@@ -17,4 +17,6 @@ to run `Meal plan.py`
 
 #websites
 
-https://www.w3schools.com/python/default.asp
+* https://www.w3schools.com/python/default.asp
+* https://video.byui.edu/media/0_v2afnpby
+*https://www.youtube.com/watch?v=Czfxm5qMb3I&feature=youtu.be
